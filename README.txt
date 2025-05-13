@@ -12,20 +12,18 @@
 	•	Сохранение скриншота после отправки формы
 
 
-### 1️⃣ Клонируем репозиторий:
-```bash
+ 1️⃣ Клонируем репозиторий:
+
 git clone https://github.com/hikehikehike/Punch_Agency.git
 cd Punch_Agency
-```
 
-### 2️⃣ Установка:
-```bash
+
+ 2️⃣ Установка:
+
 pip install -r requirements.txt
 playwright install
-```
+
 
 ### 3️⃣ Запуск скрипта:
 
-```bash
 python main.py
-```
