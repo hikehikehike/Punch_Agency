@@ -21,9 +21,10 @@ cd Punch_Agency
  2️⃣ Установка:
 
 pip install -r requirements.txt
+
 python -m playwright install
 
 
-### 3️⃣ Запуск скрипта:
+3️⃣ Запуск скрипта:
 
 python main.py
